@@ -10,6 +10,7 @@ function App() {
     <>
       <div className='h-screen w-full text-9xl text-zinc-50 bg-black flex justify-center items-center'>
         <h1>Hello World!</h1>
+        <h3>Hey It's OSMsss...</h3>
       </div>
     </>
   )
